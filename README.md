@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cadencechiappe
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning coding - full stack
-- 💞️ I’m looking to collaborate on art based projects
+- 💞️ I’m looking to collaborate on well really anything creative
 - 📫 How to reach me email: cadence@chiappe.com
 
 <!---
